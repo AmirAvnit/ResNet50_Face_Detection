@@ -4,3 +4,13 @@
 2. Model training 
 3. Conversion to a fully convolutional model 
 4. Heat map generation
+
+# Prerequisites
+
+TensorFlow
+Keras
+numpy
+scipy
+matplotlib
+OpenCV (cv2)
+imgaug
