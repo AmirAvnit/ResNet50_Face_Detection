@@ -6,10 +6,4 @@
 
 
 # Prerequisites
-TensorFlow
-Keras
-numpy
-scipy
-matplotlib
-OpenCV (cv2)
-imgaug
+TensorFlow; Keras; numpy; scipy; matplotlib; OpenCV (cv2); imgaug
